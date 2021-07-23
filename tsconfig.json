@@ -1,6 +1,0 @@
-{
-  "compilerOptions": {
-    // 追加
-    "baseUrl": "."
-    }
-}
