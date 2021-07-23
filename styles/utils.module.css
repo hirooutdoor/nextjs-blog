@@ -24,11 +24,12 @@
   font-size: 1.2rem;
   line-height: 1.5;
 }
-.boderCircle {
+
+.borderCircle {
   border-radius: 9999px;
 }
 
-.colorInHerit {
+.colorInherit {
   color: inherit;
 }
 
@@ -43,7 +44,7 @@
 }
 
 .listItem {
-  margin: 0 0 1.25rem ;
+  margin: 0 0 1.25rem;
 }
 
 .lightText {
