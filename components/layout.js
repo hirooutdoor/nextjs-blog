@@ -45,9 +45,8 @@ export default function Layout({ children, home }) {
                   src="/images/profile.jpg"
                   className={`${styles.headerImage} ${utilStyles.borderCircle}`}
                   alt={name}
-                  layout="fill"
-                  width="50px"
-                  height="50px"
+                  width="100px"
+                  height="100px"
                 />
               </a>
             </Link>
